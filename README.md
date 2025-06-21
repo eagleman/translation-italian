@@ -1,10 +1,10 @@
-<p align="center"><img src="preview.jpg?v=3" /></p>
+<p align="center"><img src="preview-it.jpg?v=3" /></p>
 <h1 align="center">language-it</h1>
-<p align="center">Italian translation for WonderCMS (by Giacomo Margarito)</p>
+<p align="center">Italian translations for WonderCMS (by Giacomo Margarito)</p>
 
 <br><br>
 
-This plugin adds Italian translations to the WonderCMS admin area, based on "https://github.com/RenaudILTIS/translation-french" . Plugin author: Renaud ILTIS.
+This plugin adds Italian translations to the WonderCMS admin area, based on "https://github.com/RenaudILTIS/translation-french" . Original Plugin author: Renaud ILTIS. Italian Plugin author: Giacomo Margarito
 
 
 ## How to use
@@ -14,7 +14,8 @@ This plugin adds Italian translations to the WonderCMS admin area, based on "htt
 
 
 ## How this works
-The translations are all in the si_SL.csv file. Why in CVS? That's how all other major CMSes do it, so there must be a good reason for it.
+The translations are all in the si_SL.csv file. Why in CVS? That's how all
+other major CMSes do it, so there must be a good reason for it.
 
 You will see something like this a lot: 
 

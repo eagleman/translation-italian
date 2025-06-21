@@ -41,9 +41,9 @@ THEMES AND PLUGINS
     "return confirm\('Remove (.*?)\?'\)","return confirm('Eliminare $1?')"
     ">Active",">V Attivo"
     "return confirm\('Activate (.*?) theme\?'\)","return confirm('Attivare $1?')"
-    "> Activate","> Attivar"
+    "> Activate","> Attivare"
     "> More info","> Maggiori informazioni"
-    "> Install","> Installq"
+    "> Install","> Installa"
     ">Installed version:",">Versione installata:"
     ">Custom repository",">Cartella personalizzata"
     "Enter URL to custom repository","Inserisci l'URL della cartella personalizzata"
@@ -53,7 +53,7 @@ THEMES AND PLUGINS
 
 SECURITY
     ">Admin login URL","> URL di connessione per l'amministratore"
-    ">Save your login URL to log in to your website next time:",">Salvate il vostro URL di connessione per riconnetervi al vostro sito la prossima volta:"
+    ">Save your login URL to log in to your website next time:",">Salvate il vostro URL di connessione per riconnettervi al vostro sito la prossima volta:"
     ">Password",">Password"
     "Old password","Vecchia password"
     "New password","Nuova password"
